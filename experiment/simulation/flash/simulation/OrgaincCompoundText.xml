@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+<SCENE ID="Start">
+	<TEXT ID="Start_one">
+		<TEXTVALUE>Take some substance in a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Preanhydride">
+	<TEXT ID="Preanhydride_one">
+		<TEXTVALUE>Take some substance in a China dish.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="Addalcohol">
+	<TEXT ID="Addalcohol_one">
+		<TEXTVALUE>Add some Alcohol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ActionFeCl3">
+	<TEXT ID="ActionFeCl3_one">
+		<TEXTVALUE>Add some Ferric Chloride ([cml]FeCl3[/cml]).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="SuccessFeCl3">
+	<TEXT ID="SuccessFeCl3_one">
+		<TEXTVALUE>Violet colouration:Presence of Phenols.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="FailFeCl3">
+	<TEXT ID="FailFeCl3_one">
+		<TEXTVALUE>No violet colouration:Absence of Phenols.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Addmethanol">
+	<TEXT ID="Addmethanol_one">
+		<TEXTVALUE> Add some Methanol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Addborsches">
+	<TEXT ID="Addborsches_one">
+		<TEXTVALUE>Add some Borsche's reagent.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Placeinwaterbath">
+	<TEXT ID="Placeinwaterbath_one">
+		<TEXTVALUE>Place it in waterbath for boiling.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successborsches">
+	<TEXT ID="Successborsches_one">
+		<TEXTVALUE>A yellowish orange ppt : Presence of Aldehydes or ketones.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failborsches">
+	<TEXT ID="Failborsches_one">
+		<TEXTVALUE>A yellowish orange ppt : Absence of Aldehydes or ketones.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="AddNaHCO3">
+	<TEXT ID="AddNaHCO3_one">
+		<TEXTVALUE>Add some [cml]NaHCO3[/cml].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ActionNaHCO3">
+	<TEXT ID="ActionNaHCO3_one">
+		<TEXTVALUE>Shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="SuccessNaHCO3">
+	<TEXT ID="SuccessNaHCO3_one">
+		<TEXTVALUE>Brisk effervescence with the liberation of [cml]CO2[/cml]:Presence of Acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="FailNaHCO3">
+	<TEXT ID="FailNaHCO3_one">
+		<TEXTVALUE>No brisk effervescence with the liberation of [cml]CO2[/cml]:Absence of Acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Diazotisation">
+	<TEXT ID="Diazotisation_one">
+		<TEXTVALUE>Add some HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Actiondiazotisation">
+	<TEXT ID="Actiondiazotisation_one">
+		<TEXTVALUE>Keep it in ice cold condition for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successdiazotisation">
+	<TEXT ID="Successdiazotisation_one">
+		<TEXTVALUE>Add Sodium Nitrite solution dropwise into the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Successdiazotisation_two">
+		<TEXTVALUE>Rapid foaming : presence of Primary Aliphatic Amines.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+<SCENE ID="Faildiazotisation">
+	<TEXT ID="Faildiazotisation_one">
+		<TEXTVALUE>Add Sodium Nitrate solution dropwise into the test tube.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Faildiazotisation_two">
+		<TEXTVALUE>No rapid foaming : Absence of Amines.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+<SCENE ID="AddNaOH">
+	<TEXT ID="AddNaOH_one">
+		<TEXTVALUE>Add some NaOH.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AddNaOH_two">
+		<TEXTVALUE>Substence dissolved : Presence of Acidic substances.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ActionNaOH">
+	<TEXT ID="ActionNaOH_one">
+		<TEXTVALUE>Boil it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="SuccessNaOH">
+	<TEXT ID="SuccessNaOH_one">
+		<TEXTVALUE>Introduce a red litmus paper to test ammonia evolved, it turns to blue.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="FailNaOH">
+	<TEXT ID="FailNaOH_one">
+		<TEXTVALUE>Absence of amides.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Llitmustest">
+	<TEXT ID="Llitmustest_one">
+		<TEXTVALUE>Introduce a red litmus paper to test ammonia evolved, it turns to blue.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AddHCl">
+	<TEXT ID="AddHCl_one">
+		<TEXTVALUE>Add some HCl.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AddHCl_two">
+		<TEXTVALUE>White crystalline ppt : Presence of Aromatic Amides.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="AddHCl_three">
+		<TEXTVALUE>Ammonia is evolved but no white ppt after adding HCl : Presence of Aliphatic Amides.</TEXTVALUE>
+	</TEXT>
+
+
+
+</SCENE>
+
+
+
+
+
+<SCENE ID="Addshiffs">
+	<TEXT ID="Addshiffs_one">
+		<TEXTVALUE>Add some Schiff's reagent.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Actionschiffs">
+	<TEXT ID="Actionschiffs_one">
+		<TEXTVALUE>Shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successschiffs">
+	<TEXT ID="Successschiffs_one">
+		<TEXTVALUE>Violet color developed within 2 minutes : Presence of Aldehydes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failschiffs">
+	<TEXT ID="Failschiffs_one">
+		<TEXTVALUE>No violet color developed : Absence of Aldehydes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Prenhydride">
+	<TEXT ID="Prenhydride_one">
+		<TEXTVALUE>take some component in a china dish.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Anhydride">
+	<TEXT ID="Anhydride_one">
+		<TEXTVALUE>place the china dish on to burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Placethefunnel">
+	<TEXT ID="Placethefunnel_one">
+		<TEXTVALUE>place the funnel in the china dish.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Smog">
+	<TEXT ID="Smog_one">
+		<TEXTVALUE>a smog will appear in the funnel after the burning.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failanhydride">
+	<TEXT ID="Failanhydride_one">
+		<TEXTVALUE>Absence of Dicarboxylic Acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successanhydride">
+	<TEXT ID="Successanhydride_one">
+		<TEXTVALUE>White shiny needles are deposited on the sides of the funnel : Presence of Dicarboxylic Acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Addtollen's">
+	<TEXT ID="Addtollens_one">
+		<TEXTVALUE>Add some Tollens reagent.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Actiontollens">
+	<TEXT ID="Actiontollens_one">
+		<TEXTVALUE>Boil it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successtollens">
+	<TEXT ID="Successtollens_one">
+		<TEXTVALUE>Black ppt : Presence of Aldehydes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failtollens">
+	<TEXT ID="Failtollens_one">
+		<TEXTVALUE>Absence of Aldehydes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Addsodium">
+	<TEXT ID="Addsodium_one">
+		<TEXTVALUE>Add some Sodium Nitroprusside.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="SuccessNitroprusside">
+	<TEXT ID="SuccessNitroprusside_one">
+		<TEXTVALUE>Wine red color : presence of Methyl Ketons.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="FailNitroprusside">
+	<TEXT ID="FailNitroprusside_one">
+		<TEXTVALUE>no wine red color : Absence of Methyl Ketons.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="AddNaHSO3">
+	<TEXT ID="AddNaHSO3_one">
+		<TEXTVALUE>notext.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="ActionNaHSO3">
+	<TEXT ID="ActionNaHSO3_one">
+		<TEXTVALUE>Add some [cml]NaHSO3[/cml].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="SuccessNaHSO3">
+	<TEXT ID="SuccessNaHSO3_one">
+		<TEXTVALUE>White crystalline ppt : Presence of Aldehydes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="FailNaHSO3">
+	<TEXT ID="FailNaHSO3_one">
+		<TEXTVALUE>No white crystalline ppt : Absence of Aldehydes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Addhydrogen">
+	<TEXT ID="Addhydrogen_one">
+		<TEXTVALUE>Add some Hydrogen Peroxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Burnitwell">
+	<TEXT ID="Burnitwell_one">
+		<TEXTVALUE>boil it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AddFeCl3">
+	<TEXT ID="AddFeCl3_one">
+		<TEXTVALUE>Add some [cml]FeCl3[/cml].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successhydroxamic">
+	<TEXT ID="Successhydroxamic_one">
+		<TEXTVALUE>Magenta Colouration : Presence of Aromatic Primary Amide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failhydroxamic">
+	<TEXT ID="Failhydroxamic_one">
+		<TEXTVALUE>No magenta Colouration : Absence of Aromatic Primary Amide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="AddH2SO4">
+	<TEXT ID="AddH2SO4_one">
+		<TEXTVALUE>Add some [cml]H2SO4[/cml].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Addresorcinol">
+	<TEXT ID="Addresorcinol_one">
+		<TEXTVALUE>Add some Resorcinol.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Boilandcool">
+	<TEXT ID="Boilandcool_one">
+		<TEXTVALUE>Heat it well and keep it cool for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Poutintobeaker">
+	<TEXT ID="Poutintobeaker_one">
+		<TEXTVALUE>Pour the coold mixture into the beaker containing NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failfluorescein">
+	<TEXT ID="Failfluorescein_one">
+		<TEXTVALUE>Absence of  dicarboxylic acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successfluorescein">
+	<TEXT ID="Successfluorescein_one">
+		<TEXTVALUE>A red solution with intense green fluorescence : Presence of  dicarboxylic acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="Addbenzoyalchoride">
+	<TEXT ID="Addbenzoyalchoride_one">
+		<TEXTVALUE>Add some Benzoyl Chloride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Corkit">
+	<TEXT ID="Corkit_one">
+		<TEXTVALUE>Close the boiling tube using coark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Shakitwell">
+	<TEXT ID="Shakitwell_one">
+		<TEXTVALUE>Shake the boiling tube well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successben">
+	<TEXT ID="Successben_one">
+		<TEXTVALUE>White ppt is formed : Presence of Aromatic Amines.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failben">
+	<TEXT ID="Failben_one">
+		<TEXTVALUE>No white ppt : Absence of Aromatic Amines.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="AdddillHCl">
+	<TEXT ID="AdddillHCl_one">
+		<TEXTVALUE>Add some diluted HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AddNaNO2">
+	<TEXT ID="AddNaNO2_one">
+		<TEXTVALUE>Add some [cml]NaNO2[/cml].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Add2naphtholNaOH">
+	<TEXT ID="Add2naphtholNaOH_one">
+		<TEXTVALUE>Add some 2 naphthol in NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Keepitcool">
+	<TEXT ID="Keepitcool_one">
+		<TEXTVALUE>keep the mixture in ice cold condition.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successdiazonium">
+	<TEXT ID="Successdiazonium_one">
+		<TEXTVALUE>Orange-red dye : Presence of aromatic amines.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Faildiazonium">
+	<TEXT ID="Faildiazonium_one">
+		<TEXTVALUE>No Orange-red dye : Absence of aromatic amines.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Heatit">
+	<TEXT ID="Heatit_one">
+		<TEXTVALUE>Heat the substance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Ammonia">
+	<TEXT ID="Ammonia_one">
+		<TEXTVALUE>The substance will dissolve, and ammonia will evolve. Use litmus paper test.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Againdry">
+	<TEXT ID="Againdry_one">
+		<TEXTVALUE>Heat the substance again, it will get dry.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Heatitagain">
+	<TEXT ID="Heatitagain_one">
+		<TEXTVALUE>Heat the mixture again and keep it cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="AddCuSO4">
+	<TEXT ID="AddCuSO4_one">
+		<TEXTVALUE>Add some [cml]CuSO4[/cml].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="Successbiuret">
+	<TEXT ID="Successbiuret_one">
+		<TEXTVALUE>Violet colouration : Presence of diamide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failbiuret">
+	<TEXT ID="Failbiuret_one">
+		<TEXTVALUE>No violet colouration : Absence of diamide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+<SCENE ID="Keepinstand">
+	<TEXT ID="Keepinstand_one">
+		<TEXTVALUE>Keep the mixture in a test tube stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Addaniline">
+	<TEXT ID="Addaniline_one">
+		<TEXTVALUE>In a new test tube take some Aniline.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="keepitcool">
+	<TEXT ID="keepitcool_one">
+		<TEXTVALUE>Keep the mixture in ice cold condition.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Addsodiumnitrite">
+	<TEXT ID="Addsodiumnitrite_one">
+		<TEXTVALUE>Add few drops of Saturated Sodium Nitrite.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Takethemixture">
+	<TEXT ID="Takethemixture_one">
+		<TEXTVALUE>Take already prepared compound from test tube stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Addmixture">
+	<TEXT ID="Addmixture_one">
+		<TEXTVALUE>Add the phenolic compound to the well cooled mixture.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successazodye">
+	<TEXT ID="Successazodye_one">
+		<TEXTVALUE>A red colored substance is formed : Presence of Phenols.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failazodye">
+	<TEXT ID="Failazodye_one">
+		<TEXTVALUE>Red colored substance is not formed : Absence of Phenols.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+<SCENE ID="Addbenzen">
+	<TEXT ID="Addbenzen_one">
+		<TEXTVALUE>Add some Benzenesulfonyl Chloride.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Corkitandshake">
+	<TEXT ID="Corkitandshake_one">
+		<TEXTVALUE>Stopper the boiling tube and shake the mixture vigorously.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Successbenzen">
+	<TEXT ID="Successbenzen_one">
+		<TEXTVALUE>Test the solution ot make sure that it is still alkaline using litmus paper test.</TEXTVALUE> 
+	</TEXT>
+	<TEXT ID="Successbenzen_two">
+		<TEXTVALUE>Red litmus turnes in to blue; the Benzenesulfonyl Chloride is reacted.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Successbenzen_three">
+		<TEXTVALUE>Keep the solution for some time.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Successbenzen_four">
+		<TEXTVALUE>Add 10% HCl solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="Successbenzen_five">
+		<TEXTVALUE>Presence of Aliphatic Primary Amines.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="Failbenzen">
+	<TEXT ID="Failbenzen_one">
+		<TEXTVALUE> Absence of Aliphatic Primary Amines.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>
