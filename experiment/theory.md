@@ -310,3 +310,91 @@ The nitroprusside ion, which may be regarded as a special carrier of the nitroso
 
 
 
+
+
+<table>
+  <tr>
+    <th colspan="2">Tests for Aldehydes</th>
+  </tr>
+  <tr>
+    <td>Action of Tollen’s reagent:</td>
+    <td>A little of the substance is boiled with few drops of Tollen’s reagent.<br><br>Black ppt.<br><br>Presence of aldehydes</td>
+  </tr>
+  <tr>
+    <td>Action of sodium bisulphite solution:</td>
+    <td>Two drops of the aldehyde is shaken with saturated solution of NaHSO₃<br><br>White crystalline ppt.<br><br>Presence of aldehydes.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Tests for Ketones</th>
+  </tr>
+  <tr>
+    <td>Nitroprusside test:</td>
+    <td>Add a few drops of sodium nitroprusside solution to few drops of ketone. Then add NaOH solution in excess.<br><br>Wine red colour.<br><br>Presence of methyl ketones.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Test for Acids</th>
+  </tr>
+  <tr>
+    <td>Fluorescein Reaction:</td>
+    <td>A little of the substance is heated with Conc. H₂SO₄ & Resorcinol in a dry test tube. It is cooled & then poured into a beaker containing excess of NaOH.<br><br>A red solution with intense green fluorescence.<br><br>Presence of dicarboxylic acid.</td>
+  </tr>
+  <tr>
+    <td>Anhydride formation:</td>
+    <td>A little of the acid is heated in a dry china dish covered with an inverted funnel whose stem is closed. It is then cooled.<br><br>White shiny needles are deposited on the sides of the funnel.<br><br>Presence of dicarboxylic acid</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Tests for Amides</th>
+  </tr>
+  <tr>
+    <td>Biuret reaction:</td>
+    <td>A little of the substance is heated first gently in a dry test tube followed by strong heating. The solid residue is warmed with 1 mL 10% NaOH then cooled and one drop of dil. CuSO₄ added.<br><br>On heating smell of ammonia is evolved & violet colour on adding CuSO₄.<br><br>Presence of diamide.</td>
+  </tr>
+  <tr>
+    <td>Hydroxamic acid test:</td>
+    <td>Place a little of the substance in 5 mL water. Add few drops 3% hydrogen peroxide and 2 drops of 5% ferric chloride. Heat the solution.<br><br>Magenta colour.<br><br>Presence of aromatic primary amide.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Test for Aromatic Amines (Primary)</th>
+  </tr>
+  <tr>
+    <td>Confirmatory Tests for Functional Groups:</td>
+    <td>Add 2 mL of cold diazonium solution to a solution of 0.1 g 2-naphthol in 2 mL 10% NaOH & 5 mL water.<br><br>Orange–red dye.<br><br>Presence of aromatic amines.</td>
+  </tr>
+  <tr>
+    <td>Benzoylation:</td>
+    <td>Dissolved a little of the substance in 10 mL 10% NaOH solution contained in a boiling tube. About 1 mL of benzoyl chloride is added. The boiling tube is corked and shaken vigorously for about 15 minutes.<br><br>A white ppt is formed.<br><br>Presence of aromatic amines.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Test for Aliphatic Amines (Primary)</th>
+  </tr>
+  <tr>
+    <td>NaOH + Benzenesulfonyl chloride:</td>
+    <td>To 0.3 mL or 300 mg of unknown substance in a test tube add 5 mL of 10% NaOH solution and 0.4 mL of benzenesulfonyl chloride. Close the test tube with a cork and shake the mixture vigorously. Test the solution to make sure that it is still alkaline using litmus paper.<br><br>Soluble in base.<br><br>Presence of aliphatic primary amines.</td>
+  </tr>
+  <tr>
+    <td>Cool & Add HCl:</td>
+    <td>Cool the solution & add 10% HCl solution dropwise.<br><br>A precipitate is formed.<br><br>Presence of aliphatic primary amines.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Tests for Aromatic Alcohol (Phenol)</th>
+  </tr>
+  <tr>
+    <td>Azo-dye formation:</td>
+    <td>Dissolve two drops of aniline in 1 mL dil. HCl well cooled in ice. Few drops of saturated sodium nitrite solution are added. Then it is added to a well cooled solution of the phenolic compound in aqueous sodium hydroxide.<br><br>A red coloured substance is formed.<br><br>Presence of phenols.</td>
+  </tr>
+  <tr>
+    <td>Benzoylation:</td>
+    <td>Dissolved a little of the substance in 5 mL 20% NaOH solution contained in a boiling tube. About 1 mL of benzoyl chloride is added. The boiling tube is corked and shaken vigorously for about 15 minutes.<br><br>A precipitate is formed.<br><br>Presence of phenols.</td>
+  </tr>
+</table>
+
+
+
+
+
