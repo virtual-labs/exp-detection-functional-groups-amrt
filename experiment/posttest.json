@@ -1,38 +1,40 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "Which of the following compounds give a positive test with sodium nitroprusside solution?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(CH₃)₂CO",
+        "b": "Both 1 and 3",
+        "c": "C₆H₅COCH₃",
+        "d": "CH₃COCH₃"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Hinsberg reagent used for aliphatic amines is chemically",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "benzyl chloride",
+        "b": "benzene sulphonyl chloride",
+        "c": "benzoyl chloride",
+        "d": "chlorobenzene"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What type of compounds responds to Biuret test?",
+      "answers": {
+        "a": "Aromatic diamide",
+        "b": "Aliphatic ketone",
+        "c": "Aromatic ketone",
+        "d": "Aliphatic diamide"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
