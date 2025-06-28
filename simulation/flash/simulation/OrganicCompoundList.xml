@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<allcompound>
+
+<compoundtype id="Salicylicacid">
+	<agent>Salicylicacid</agent>
+	<type>Solid</type>
+	<answer>Acid</answer>
+			<answervalue id="Acid">
+				<answertype>Acid</answertype>
+				<confermationtype1>Nil</confermationtype1>
+				<confermationtype2>Nil</confermationtype2>
+			</answervalue>
+	<answer>Phenol</answer>
+			<answervalue id="Phenol">
+				<answertype>Phenol</answertype>
+				<confermationtype1>Benzoylation</confermationtype1>
+				<confermationtype2>AzoDyeFormation</confermationtype2>
+			</answervalue>
+	
+</compoundtype>
+
+
+
+<compoundtype id="Benzamide">
+	<agent>Benzamide</agent>
+	<type>Solid</type>
+	<answer>Amide</answer>
+		<answervalue id="Amide">
+			<answertype>Aromatic</answertype>
+			<confermationtype1>Hydroxamic</confermationtype1>
+			<confermationtype2>Hydroxamic</confermationtype2>
+		</answervalue>
+</compoundtype>
+
+
+
+
+<compoundtype id="Acetamide">
+	<agent>Acetamide</agent>
+	<type>Solid</type>
+	<answer>Amide</answer>
+		<answervalue id="Amide">
+			<answertype>Aliphatic</answertype>
+			<confermationtype1>Nil</confermationtype1>
+			<confermationtype2>Nil</confermationtype2>
+		</answervalue>
+</compoundtype>
+
+
+<compoundtype id="Urea">
+	<agent>Urea</agent>
+	<type>Solid</type>
+	<answer>Amide</answer>
+		<answervalue id="Amide">
+			<answertype>Aliphatic</answertype>
+			<confermationtype1>Biuret</confermationtype1>
+			<confermationtype2>Biuret</confermationtype2>
+		</answervalue>
+</compoundtype>
+
+
+<compoundtype id="PhthalicAcid">
+	<agent>PhthalicAcid</agent>
+	<type>Solid</type>
+	<answer>Acid</answer>
+			<answervalue id="Acid">
+				<answertype>Acid</answertype>
+				<confermationtype1>Fluorescein</confermationtype1>
+				<confermationtype2>AnhydrideFormation</confermationtype2>
+			</answervalue>	 	
+</compoundtype>
+
+<compoundtype id="Benzoicacid">
+	<agent>Benzoicacid</agent>
+	<type>Solid</type>
+	<answer>Acid</answer>
+			<answervalue id="Acid">
+				<answertype>Acid</answertype>
+				<confermationtype1>Nil</confermationtype1>
+				<confermationtype2>Nil</confermationtype2>
+			</answervalue>	 	
+</compoundtype>
+
+<compoundtype id="Cinnamicacid">
+	<agent>Cinnamicacid</agent>
+	<type>Solid</type>
+	<answer>Acid</answer>
+			<answervalue id="Acid">
+				<answertype>Acid</answertype>
+				<confermationtype1>Nil</confermationtype1>
+				<confermationtype2>Nil</confermationtype2>
+			</answervalue>	 	
+</compoundtype>
+
+
+<compoundtype id="Benzaldehyde">
+	<agent>Benzaldehyde</agent>
+	<type>Liquid</type>
+		<answer>Aldehyde</answer>
+			<answervalue id="Aldehyde">
+				<answertype>Aldehyde</answertype>
+				<confermationtype1>TollenReagent</confermationtype1>
+				<confermationtype2>NaHSO3</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="Chlorobenzaldehyde">
+	<agent>Chlorobenzaldehyde</agent>
+	<type>Liquid</type>
+		<answer>Aldehyde</answer>
+			<answervalue id="Aldehyde">
+				<answertype>Aldehyde</answertype>
+				<confermationtype1>TollenReagent</confermationtype1>
+				<confermationtype2>NaHSO3</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="Cyclohexanone">
+	<agent>Cyclohexanone</agent>
+	<type>Liquid</type>
+		<answer>Ketone</answer>
+			<answervalue id="Ketone">
+				<answertype>Ketone</answertype>
+				<confermationtype1>Nil</confermationtype1>
+				<confermationtype2>Nil</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="Benzophenone">
+	<agent>Benzophenone</agent>
+	<type>Solid</type>
+		<answer>Ketone</answer>
+			<answervalue id="Ketone">
+				<answertype>Ketone</answertype>
+				<confermationtype1>Nil</confermationtype1>
+				<confermationtype2>Nil</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="Acetophenone">
+	<agent>Benzophenone</agent>
+	<type>Solid</type>
+		<answer>Ketone</answer>
+			<answervalue id="Ketone">
+				<answertype>Ketone</answertype>
+				<confermationtype1>Nitroprusside</confermationtype1>
+				<confermationtype2>Nitroprusside</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="Aniline">
+	<agent>Aniline</agent>
+	<type>Liquid</type>
+		<answer>Amine</answer>
+			<answervalue id="Amine">
+				<answertype>AromaticAmine</answertype>
+				<confermationtype1>Diazonium</confermationtype1>
+				<confermationtype2>Benzoylation</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="m-AminoBenzoicacid">
+	<agent>m-AminoBenzoicacid</agent>
+	<type>Solid</type>
+		<answer>Amine</answer>
+			<answervalue id="Amine">
+				<answertype>AromaticAmine</answertype>
+				<confermationtype1>Diazonium</confermationtype1>
+				<confermationtype2>Benzoylation</confermationtype2>
+			</answervalue>
+			<answer>Acid</answer>
+			<answervalue id="Acid">
+				<answertype>Acid</answertype>
+				<confermationtype1>Nil</confermationtype1>
+				<confermationtype2>Nil</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="Salicylaldehyde">
+	<agent>Salicylaldehyde</agent>
+	<type>Liquid</type>
+		<answer>Phenol</answer>
+			<answervalue id="Phenol">
+				<answertype>Phenol</answertype>
+				<confermationtype1>Benzoylation</confermationtype1>
+				<confermationtype2>AzoDyeFormation</confermationtype2>
+			</answervalue>
+			<answer>Aldehyde</answer>
+			<answervalue id="Aldehyde">
+				<answertype>Aldehyde</answertype>
+				<confermationtype1>TollenReagent</confermationtype1>
+				<confermationtype2>NaHSO3</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="Aminophenol">
+	<agent>Aminophenol</agent>
+	<type>Solid</type>
+		<answer>Phenol</answer>
+			<answervalue id="Phenol">
+				<answertype>Phenol</answertype>
+				<confermationtype>Benzoylation</confermationtype>
+				<confermationtype>AzoDyeFormation</confermationtype>
+			</answervalue>
+			<answer>Amine</answer>
+			<answervalue id="Amine">
+				<answertype>AromaticAmine</answertype>
+				<confermationtype1>Diazonium</confermationtype1>
+				<confermationtype2>Diazonium</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="nButylAmine">
+	<agent>nButylAmine</agent>
+	<type>Liquid</type>
+		<answer>Amine</answer>
+			<answervalue id="Amine">
+				<answertype>Aliphatic Amine</answertype>
+				<confermationtype1>Benzenesulfonyl</confermationtype1>
+				<confermationtype2>Benzenesulfonyl</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+<compoundtype id="Glycine">
+	<agent>Glycine</agent>
+	<type>Solid</type>
+		<answer>Acid</answer>
+			<answervalue id="Acid">
+				<answertype>MonocarboxylicAcid</answertype>
+				<confermationtype1>Nil</confermationtype1>
+				<confermationtype2>Nil</confermationtype2>
+			</answervalue>
+			<answer>Amine</answer>
+			<answervalue id="Amine">
+				<answertype>Aliphatic Amine </answertype>
+				<confermationtype1>Benzenesulfonyl</confermationtype1>
+				<confermationtype2>Benzenesulfonyl</confermationtype2>
+			</answervalue>
+</compoundtype>
+
+</allcompound>
