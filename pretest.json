@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Diazonium salts used for coupling reactions are formed by",
+      "answers": {
+        "a": "Aliphatic amides",
+        "b": "Aliphatic amines",
+        "c": "Aromatic 1° amines",
+        "d": "Aromatic amides"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The reagent used to confirm the presence of aldehyde in an organic sample is",
+      "answers": {
+        "a": "Borsche's",
+        "b": "Schiff's",
+        "c": "Sodium bisulphite solution",
+        "d": "Ferric chloride solution"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which of the following compounds give a positive test with sodium nitroprusside solution?",
+      "answers": {
+        "a": "(CH₃)₂CO",
+        "b": "Both 1 and 3",
+        "c": "C₆H₅COCH₃",
+        "d": "CH₃COCH₃"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Hinsberg reagent used for aliphatic amines is chemically",
+      "answers": {
+        "a": "benzyl chloride",
+        "b": "benzene sulphonyl chloride",
+        "c": "benzoyl chloride",
+        "d": "chlorobenzene"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What type of compounds responds to Biuret test?",
+      "answers": {
+        "a": "Aromatic diamide",
+        "b": "Aliphatic ketone",
+        "c": "Aromatic ketone",
+        "d": "Aliphatic diamide"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
